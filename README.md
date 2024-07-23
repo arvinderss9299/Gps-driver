@@ -27,7 +27,7 @@ To set up the GNSS puck for data collection:
     ```sh
    minicom -C gps-data.txt
 
-**To stop writing to the file, press Ctrl+C.
+**To stop writing to the file, press Ctrl+C.**
 
 ## Writing the Device Driver
 

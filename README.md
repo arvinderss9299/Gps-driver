@@ -69,12 +69,12 @@ Documented findings in a report with plots and charts, summarizing the analysis 
 ## Repository Structure
 
 The directory structure for the project is as follows:
--src/
-    -Gps-driver/
-    -Report.pdf
-    -Analysis-scripts/
-    -data/
--README.md
+- 'src/'
+    - 'Gps-driver/'
+    - 'Report.pdf'
+    - 'Analysis-scripts/'
+    - 'data/'
+- 'README.md'
 
 
 ## How to Use

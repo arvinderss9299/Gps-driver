@@ -17,7 +17,7 @@ To set up the GNSS puck for data collection:
    ```sh
    $ ls -lt /dev/tty* | head
 
-   **Note the device file identifier** (e.g., `/dev/ttyUSB2`).
+**Note the device file identifier** (e.g., `/dev/ttyUSB2`).
 
 2. Set read and write permissions for the device:
    ```sh
@@ -27,7 +27,7 @@ To set up the GNSS puck for data collection:
     ```sh
    minicom -C gps-data.txt
 
-   **To stop writing to the file, press Ctrl+C.
+**To stop writing to the file, press Ctrl+C.
 
 ## Writing the Device Driver
 

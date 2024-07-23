@@ -81,7 +81,7 @@ The directory structure for the project is as follows:
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/arvinderss9299/Gps-driver
 
 
 2. **Navigate to the source directory:**
